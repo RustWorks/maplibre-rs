@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["LayerPaint","The different types of paints."]],"struct":[["BackgroundPaint",""],["FillPaint",""],["LinePaint",""],["StyleLayer","Stores all the styles for a specific layer."]]};

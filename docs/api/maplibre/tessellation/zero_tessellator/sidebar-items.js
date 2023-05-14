@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ZeroTessellator","Build tessellations with vectors."]],"type":[["GeoResult",""]]};

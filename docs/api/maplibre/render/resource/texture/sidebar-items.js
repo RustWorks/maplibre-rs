@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["TextureView","Describes a [`TextureView`]."]],"struct":[["Texture",""]]};

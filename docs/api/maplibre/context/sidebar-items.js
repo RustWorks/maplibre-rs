@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["MapContext","Stores the context of the map."]]};
